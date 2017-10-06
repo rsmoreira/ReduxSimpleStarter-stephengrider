@@ -1,3 +1,6 @@
+> This is a copy of the Stephen Grider repository named ReduxSimpleStarter. 
+> Thanks Stephen.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
